@@ -1,8 +1,25 @@
-# The poem about stopping
+# The horse knows the headland
 
-An entry for *The poem about stopping*.
+An entry for *The poem about stopping*: a short poem about a horse that knows the headland before the reins do, and the man who comes up the row behind it.
 
-The program writes one short poem to `/output/entry.txt`, and that poem is the whole entry. Draft description, to be rewritten with the poem it holds.
+The program writes the poem to `/output/entry.txt`, and that poem is the whole entry.
+
+```
+The horse knows the headland
+before the reins do.
+
+Ten furrows in, the light going,
+it stops at the turn
+and stands,
+breathing.
+
+The plough settles.
+The man walks up the last of the row
+and draws level,
+
+the reins slack
+in his hands.
+```
 
 Run it with Node 22.18 or later:
 
