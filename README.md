@@ -13,7 +13,7 @@ it stops at the turn
 and stands,
 breathing.
 
-The plough settles.
+The plough rocks back.
 The man walks up the last of the row
 and draws level,
 
